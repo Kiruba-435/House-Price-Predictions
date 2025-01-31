@@ -7,7 +7,9 @@ This project is to develop a predictive model that accurately estimates house pr
 ## Tech Stack:
 
 Language:  Python 
+
 Algorithm: Random Forest Regression
+
 Tools:  Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn.
 
 ## Methodology:

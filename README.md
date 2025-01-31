@@ -46,7 +46,8 @@ Model Fine-Tuning:
 
 Output:
 
-
+![Image](https://github.com/user-attachments/assets/77b7aa7e-9830-4822-8e7f-b38d22ddfc9a)
+![Image](https://github.com/user-attachments/assets/1347a66b-ce15-40d7-abd1-f3550d86d2f2)
 
 Conclusion:
 
